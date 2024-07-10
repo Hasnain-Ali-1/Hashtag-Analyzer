@@ -1,0 +1,120 @@
+Welcome to the Hashtag Analyzer
+You will choose a file of hashtags to search for
+Then you will choose a file to search for the hashtags
+Please enter the file with the hashtags you would like to use: 
+proj1_hash1.txt
+Please enter the file with the messages you would like to parse: 
+proj1_t1.txt
+Your file was imported!
+This file does not exist.
+No hashtags loaded
+Please enter the file with the hashtags you would like to use: 
+proj1_hashes.txt
+Please enter the file with the messages you would like to parse: 
+proj1_t1.txt
+Your file was imported!
+Your file was imported!
+1 messages loaded.
+20 hashtags loaded.
+Messages with matching hashtags
+1. #Google Juice Blanner 3:14pm #Google is my savior, helping me find a Big Mac to clog my arteries with using their wonderful search engine.
+     1                  #Google    1
+     2                #Alphabet    0
+     3             #GoogleGlass    0
+     4               #Searching    0
+     5                #Facebook    0
+     6                #Protests    0
+     7               #Starbucks    0
+     8            #WorkerRevolt    0
+     9                  #Unions    0
+    10                  #Amazon    0
+    11                   #Tesla    0
+    12                #ElonMusk    0
+    13                #Coasters    0
+    14                  #SpaceX    0
+    15                 #Flights    0
+    16                    #UMBC    0
+    17                 #CMSC202    0
+    18               #Computers    0
+    19             #Programming    0
+    20                     #C++    0
+Would you like to analyze another file?
+y
+Please enter the file with the hashtags you would like to use: 
+proj1_hashes.txt
+Please enter the file with the messages you would like to parse: 
+proj1_t2.txt
+Your file was imported!
+Your file was imported!
+9 messages loaded.
+20 hashtags loaded.
+Messages with matching hashtags
+1. #Google Juice Blanner 3:14pm #Google is my savior, helping me find a Big Mac to clog my arteries with using their wonderful search engine
+2. #Amazon Tony Stank 6:19pm So, I'm going to be honest, #Amazon is not my favorite but getting a delivery in a couple of hours is amazing.
+3. #Facebook Val Adge-Ideiyot 7:04 am Thank goodness for all this wonderful space-age technology, letting me see the crazy things my extended family posts on #Facebook then
+4. #ElonMusk Neil deGrasse Tyson 6:04pm I am sitting here eating moon-shaped pancakes with my space tie on, and it suddenly hit me that #ElonMusk is going to Mars with #SpaceX to avoid the disaster they're creating with a driverless car is hilarious! 
+5. #WorkerRevolt Rya. T Stairtear 4:04am I'm seeing an awful lot of articles about #WorkerRevolt at Amazon. Maybe it's time we do something about it?
+6. #Amazon Karen Plakstik 1:47pm Just ordered my 80th batch of tupperware this month from #Amazon! Living the dream!
+7. #Alphabet Teo Neocradt 5:39pm It's so weird to me that more people don't know that Google is owned by #Alphabet, like it's common knowledge, accessible with a search engine, about a shady company so you should definitely keep track of them because they have
+     1                  #Google    1
+     2                #Alphabet    1
+     3             #GoogleGlass    0
+     4               #Searching    0
+     5                #Facebook    1
+     6                #Protests    0
+     7               #Starbucks    0
+     8            #WorkerRevolt    1
+     9                  #Unions    0
+    10                  #Amazon    2
+    11                   #Tesla    0
+    12                #ElonMusk    1
+    13                #Coasters    0
+    14                  #SpaceX    0
+    15                 #Flights    0
+    16                    #UMBC    0
+    17                 #CMSC202    0
+    18               #Computers    0
+    19             #Programming    0
+    20                     #C++    0
+Would you like to analyze another file?
+y
+Please enter the file with the hashtags you would like to use: 
+proj1_hashes.txt
+Please enter the file with the messages you would like to parse: 
+proj1_t3.txt
+Your file was imported!
+Your file was imported!
+10 messages loaded.
+20 hashtags loaded.
+Messages with matching hashtags
+1. #SpaceX Falcon 9 first stage has landed on Of Course I Still Love You \xe2\x80\x94 world\xe2\x80\x99s first reflight of an orbital class rocket.
+2. #SpaceX ~60 minutes until launch window for SES-10 opens. All systems and weather are go. Watch here \xe2\x86\x92 https://t.co/gtC39uBC7z https://\xe2\x80\xa6
+3. #SpaceX Falcon 9 and SES-10 vertical on Kennedy Space Center\xe2\x80\x99s historic Pad 39A. Launch window opens at 6:27pm EDT, 10:27pm UTC. https:\xe2\x80\xa6
+4. #Tesla Made today on Tesla sketch pad https://t.co/Z8dFP2NN41
+5. #SpaceX Here is the latest SpaceX travel ad for the flight around the moon &amp; into deep space. Maybe needs a few edits ... https://t.co/mA8ZgutrbE
+6. #Tesla First drive of a release candidate version of Model 3 https://t.co/zcs6j1YRa4
+7. #Tesla Model 3 was going to be called Model E, for obvious dumb humor reasons, but Ford sued to block it, so now it is S3X. Totally different :)
+8. #Coasters Roller coasters are awesome
+     1                  #Google    0
+     2                #Alphabet    0
+     3             #GoogleGlass    0
+     4               #Searching    0
+     5                #Facebook    0
+     6                #Protests    0
+     7               #Starbucks    0
+     8            #WorkerRevolt    0
+     9                  #Unions    0
+    10                  #Amazon    0
+    11                   #Tesla    3
+    12                #ElonMusk    0
+    13                #Coasters    1
+    14                  #SpaceX    4
+    15                 #Flights    0
+    16                    #UMBC    0
+    17                 #CMSC202    0
+    18               #Computers    0
+    19             #Programming    0
+    20                     #C++    0
+Would you like to analyze another file?
+n
+Thank you for using the hashtag analyzer!
